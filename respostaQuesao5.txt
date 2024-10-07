@@ -1,0 +1,39 @@
+5) Dois veículos, um carro e um caminhão, saem respectivamente de cidades opostas pela mesma rodovia. 
+O carro, de Ribeirão Preto em direção a Barretos, a uma velocidade constante de 90 km/h, e o caminhão, 
+de Barretos em direção a Ribeirão Preto, a uma velocidade constante de 80 km/h. Quando eles se cruzarem 
+no percurso, qual estará mais próximo da cidade de Ribeirão Preto?
+
+a) Considerar a distância de 125km entre a cidade de Ribeirão Preto <-> Barretos.
+b) Considerar 3 pedágios como obstáculo e que o carro leva 5 minutos a mais para passar em cada um deles, 
+pois ele não possui dispositivo de cobrança de pedágio.
+c)Explique como chegou no resultado.
+
+
+Explicação
+Definida as variáveis importantes
+* Distância entre Ribeirão Preto e Barretos: 125 km.
+* Velocidade do carro: 90 km/h.
+* Velocidade do caminhão: 80 km/h.
+* O carro passa por 3 pedágios, perdendo 5 minutos em cada um deles, o que resulta em uma perda total de tempo de 15 minutos (0,25 horas).
+
+
+* Calculando a velocidade relativa entre eles, soma-se ambas as velocidades (90km/h + 80km/h = 170km/h)
+
+* Considere t = Tempo, Distancia total = Dt, Velocidade relativa = Vr
+t = Dr/Dt
+t = 125/170 
+t = 0,735 horas
+Transformando em minutos = 44,12
+t = 44,12 minutos
+
+* Total de 15 minutos adicionais para o carro. devido as 3 paradas de 5 min cada, neste caso será de 44 + 15 = 59 minutos.
+
+* O tempo do caminhão é de 29,12 por o 44 minutos, este não é afetado por paradas em pedágios e tem o desconto de 15 minutos 
+devido ao tempo que o carro parou para pedágio.
+
+A distancia percorrida pelo Caminnhão é de D = 80km/h * 0,735h = 58,80km
+A distancia percorrida pelo carro é de D = 90km/h * 0,735h = 43,68km
+
+Resposta:
+Quando os veículos se cruzarem, o caminhão terá percorrido aproximadamente 58,8 km, enquanto o carro terá percorrido 
+aproximadamente 43,68 km e o caminhão estará mais próximo de Ribeirão Preto no momento em que os veículos se cruzarem.
